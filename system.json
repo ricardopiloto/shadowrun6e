@@ -1,0 +1,21 @@
+{
+    "name": "shadowrun6e",
+    "title": "Shadownrun Sixth World",
+    "description": "A system to play Shadowrun Sixth World on FoundryVTT",
+    "author": "RicardoJiban",
+    "version": "0.9.0",
+    "minimumCoreVersion": "0.9.0",
+    "compatibleCoreVersion": "0.9.0",
+    "esmodules": [
+        "shadowrun6e.js"
+    ],
+    "styles": [
+        "shadowrun6e.css"
+    ],
+    "packs": [],
+    "languages": [],
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "wounds",
+    "initiative": "1d6 + @speed"
+}
